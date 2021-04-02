@@ -1,0 +1,78 @@
+[
+    {
+        "type": "body",
+        "description": "Estique um dos seus braços com a palma da mão virada para frente e puxe os dedos em direção ao seu braço esticado",
+        "amount": 80
+    },
+
+    {
+        "type": "body",
+        "description": "Estique seu contra seu peito e puxe-o utilizando o outro braço segura por 15 segundos nessa posição",
+        "amount": 60
+
+    },
+
+
+    {
+        "type": "body",
+        "description": "Puxe seu pescoço para a direita e depois para esquerda com a ajuda da mão segure na posição por 15 segundos cada lado",
+        "amount": 70
+
+    },
+
+    {
+        "type": "body",
+        "description": "Com as mãos na parte de trás da cabeça puxe-a para frente até o queijo tocar seu peito, segure na posição por 15 segundos",
+        "amount": 60
+
+    },
+
+    {
+        "type": "body",
+        "description": "Fique em pé, cruze suas pernas inclinado seu corpo para frente com os braços esticados até tocar na ponta do seus pés, segure nessa posição por 15 segundos",
+        "amount": 100
+
+    },
+
+    {
+        "type": "body",
+        "description": "Puxe o joelho de encotro ao seu peito e segure na posição por 15 segundos, depois faça o mesmo com seu outro jeolho",
+        "amount": 80
+
+    },
+
+    {
+        "type": "body",
+        "description": "Sentado, cruze uma perna e incline seu tronco para frente, troque de perna depois de 15 segundos",
+        "amount": 80
+
+    },
+
+    {
+        "type": "eye",
+        "description": "Sentado, feche os olhos e cubra-os com as palmas das mão durante 2 minutos, depois abra normalmente",
+        "amount": 80
+
+    },
+
+    {
+        "type": "eye",
+        "description": "Em um ambiente aberto olhe o mais distante que puder em quatro direções por 5s, mexa apenas seu pescoço",
+        "amount": 140
+
+    },
+
+    {
+        "type": "eye",
+        "description": "Usando os polegares, massageie a área das sobrancelhas em movimentos circulares por 15 segundos",
+        "amount": 70
+
+    },
+
+    {
+        "type": "body",
+        "description": "Em pé, gire a cintura o máximo que puder para a esquerda por 15 segundos, repita o movimento para a diretia",
+        "amount": 90
+
+    }
+]
